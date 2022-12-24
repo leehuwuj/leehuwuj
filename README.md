@@ -1,9 +1,9 @@
 
 ## Hi there 👋
-I'm Huu Le aka leehuwuj, a software developer specializing in data and machine learning platform.  
+I'm Huu Le aka `leehuwuj`, a software developer specializing in data and machine learning platform.  
 
 ## Technology stack
-- Programming language: Python, Java, Scala
+- Programming language: Python, Java, Scala, Rust
 - Tools: Apache Spark, Apache Kafka, Apache Airflow, Tensorflow, Kubernetes,...
 
 ## Social media
