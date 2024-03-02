@@ -8,4 +8,4 @@ I'm Huu Le aka `leehuwuj`, a software developer specializing in data and machine
 - [Twitter](http://twitter.com/leehuwuj)
 - [LinkedIn](https://www.linkedin.com/in/leehuwuj)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehuwuj&hide=Jupyter%20Notebook,HTML,)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehuwuj&hide=Jupyter%20Notebook,HTML,Dockerfile,)
