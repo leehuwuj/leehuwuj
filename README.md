@@ -5,7 +5,6 @@ I'm Huu Le aka `leehuwuj`, a software developer specializing in data and machine
 ## Social media
 - Website: https://huu.dev
 - Emails:
-    - Work: work@huu.dev
     - Personal: leehuwuj@gmail.com
 
 - [Twitter](http://twitter.com/leehuwuj)
